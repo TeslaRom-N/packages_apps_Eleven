@@ -335,7 +335,7 @@ public final class PreferenceUtils {
     }
 
     public boolean getShowVisualizer() {
-        return mPreferences.getBoolean(SHOW_VISUALIZER, true);
+        return false;
     }
 
     public boolean getShakeToPlay() {

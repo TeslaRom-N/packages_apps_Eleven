@@ -39,11 +39,11 @@
     <!--</PreferenceCategory>-->
     <PreferenceCategory android:title="@string/settings_general_category" >
 
-        <!-- Music visualizer -->
+        <!-- Music visualizer 
         <SwitchPreference
             android:defaultValue="true"
             android:key="music_visualization"
-            android:title="@string/settings_show_music_visualization_title" />
+            android:title="@string/settings_show_music_visualization_title" /> -->
 
         <!-- Show Lyrics -->
         <SwitchPreference
